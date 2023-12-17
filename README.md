@@ -1,5 +1,8 @@
-### Hi there 👋
+### 一名我的世界玩家
 
+![image.png](https://s2.loli.net/2023/12/17/U2VDJxF15jlkTXW.png)
+
+### 个人博客
 <!--
 **ItsDApples/ItsDApples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MCBBS主页](https://static.mcbbs.net/template/mcbbs/image/logo_sc.png)]([DApples的个人资料 - Minecraft(我的世界)中文论坛 - (mcbbs.net)](https://www.mcbbs.net/home.php?mod=space&uid=5595149))
-
