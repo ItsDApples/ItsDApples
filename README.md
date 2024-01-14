@@ -1,9 +1,11 @@
-✨ 一名我的世界萌新玩家\n
+✨ 一名我的世界萌新玩家
+
 不太喜欢吃苹果🍎\n
 
 ---
 
 Blog: https://ItsDapples.github.io\n
+
 MCBBS: https://www.mcbbs.net/home.php?mod=space&uid=5595149\n
 
 ---
