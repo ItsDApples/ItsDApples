@@ -1,8 +1,5 @@
 ### 个人博客
----
-### 你在看什么呢？
-
-![image.png](https://s2.loli.net/2023/12/17/U2VDJxF15jlkTXW.png)
+https://ItsDApples.github.io
 ---
 
 <!--
