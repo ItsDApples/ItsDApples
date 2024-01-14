@@ -1,14 +1,20 @@
+###介绍 ✔️
+
 - 一名我的世界萌新玩家✨
 
 - 不太喜欢吃苹果🍎
 
 ---
 
+###链接 ✔️
+
 😀 Blog➥ https://ItsDapples.github.io
 
 🔶 Mcbbs➥ https://www.mcbbs.net/home.php?mod=space&uid=5595149
 
 ---
+
+###合影 ✔️
 
 [![62ccee36152a0751bea7812acb056e77.md.webp](https://tuchuang.voooe.cn/images/2024/01/14/62ccee36152a0751bea7812acb056e77.md.webp)](https://tuchuang.voooe.cn/image/zN16G)
 
