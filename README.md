@@ -1,4 +1,4 @@
-- ✨ 一名我的世界萌新玩家
+- 一名我的世界萌新玩家✨
 
 - 不太喜欢吃苹果🍎
 
@@ -6,11 +6,11 @@
 
 😀 Blog➥ https://ItsDapples.github.io
 
-🔶 MCBBS➥ https://www.mcbbs.net/home.php?mod=space&uid=5595149
+🔶 Mcbbs➥ https://www.mcbbs.net/home.php?mod=space&uid=5595149
 
 ---
 
-![2023-08-25_23 38 20](https://github.com/ItsDApples/ItsDApples/assets/124063865/7cdad2dd-b67b-4585-8a4d-e6a54f3453e7)
+
 
 <!--
 **ItsDApples/ItsDApples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
