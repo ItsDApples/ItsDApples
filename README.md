@@ -16,7 +16,7 @@
 
 ### 合影 ✔️
 
-[![62ccee36152a0751bea7812acb056e77.md.webp](https://tuchuang.voooe.cn/images/2024/01/14/62ccee36152a0751bea7812acb056e77.md.webp)](https://tuchuang.voooe.cn/image/zN16G)
+[![62ccee36152a0751bea7812acb056e77.md.webp](https://raw.githubusercontent.com/ItsDApples/Cloud/master/picture/%E5%90%88%E5%BD%B1.webp)]
 
 
 <!--
