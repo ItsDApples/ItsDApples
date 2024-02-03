@@ -1,3 +1,9 @@
+### 合影 ✔️
+
+[![62ccee36152a0751bea7812acb056e77.md.webp](https://raw.githubusercontent.com/ItsDApples/Cloud/master/picture/%E5%90%88%E5%BD%B1.webp)]
+
+---
+
 ### 介绍 ✔️
 
 - 一名我的世界萌新玩家✨
@@ -14,9 +20,10 @@
 
 ---
 
-### 合影 ✔️
+### 我的Github统计 ✔️
 
-[![62ccee36152a0751bea7812acb056e77.md.webp](https://raw.githubusercontent.com/ItsDApples/Cloud/master/picture/%E5%90%88%E5%BD%B1.webp)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsDApples)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
