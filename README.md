@@ -1,11 +1,11 @@
-## DApples!🍎 "Time is like water in a sponge; it will dry up on its own"
+## I am DApples!🍎 
 
 ### Welcome
 
 
 - A Minecraft Player
 - Timezone: UTC+8
-
+"Time is like water in a sponge; it will dry up on its own"
 
 ### Here
 
