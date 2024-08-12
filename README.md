@@ -17,3 +17,4 @@
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ItsDApples&repo=JoinOpt&theme=tokyonight)](https://github.com/ItsDApples/JoinOpt)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ItsDApples&repo=FireHud-Temporary-translate&theme=tokyonight)](https://github.com/ItsDApples/FireHud-Temporary-translate)
