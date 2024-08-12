@@ -1,6 +1,6 @@
 ## I am DApples!🍎 
 
-### Welcome
+### Hi
 
 
 - A Minecraft Player
@@ -13,9 +13,7 @@
 ![Lets gooo](https://github.com/user-attachments/assets/5743395a-d442-4762-9144-db786fac6670)
 
 
-### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![ItsDApples's github stats](https://github-readme-stats.vercel.app/api?username=ItsDApples&show_icons=true&theme=tokyonight)
+### Pins
 
 
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ItsDApples&repo=JoinOpt&theme=tokyonight)](https://github.com/ItsDApples/JoinOpt)
