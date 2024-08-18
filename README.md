@@ -18,7 +18,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ItsDApples&repo=JoinOpt&theme=tokyonight)](https://github.com/ItsDApples/JoinOpt)
 &emsp;&emsp;
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ItsDApples&repo=FireHud-Temporary-translate&theme=tokyonight)](https://github.com/ItsDApples/FireHud-Temporary-translate)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ItsDApples&repo=FireHud-Chinese-Translate&theme=tokyonight)](https://github.com/ItsDApples/FireHud-Chinese-Translate)
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ItsDApples&repo=OptTools-Docs&theme=tokyonight)](https://github.com/ItsDApples/OptTools-Docs)
